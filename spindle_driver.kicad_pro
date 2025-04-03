@@ -985,7 +985,7 @@
     },
     "net_format_name": "Pcbnew",
     "page_layout_descr_file": "${EXTRA_TEMPLATE_DIR}/Official Project.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "OUTPUT/",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
