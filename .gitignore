@@ -1,0 +1,5 @@
+# Project local settings
+*.kicad_prl
+
+/OUTPUT/
+/spindle_driver-backups/
